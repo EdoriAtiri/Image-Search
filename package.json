@@ -1,0 +1,32 @@
+{
+  "name": "image-search",
+  "version": "1.0.0",
+  "description": "A Search interface for stock images",
+  "main": "script.js",
+  "scripts": {
+    "netlify": "./node_modules/.bin/netlify",
+    "debug": "netlify dev --inspect"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdoriAtiri/Image-Search.git"
+  },
+  "keywords": [
+    "Image",
+    "Search",
+    "jpg",
+    "png"
+  ],
+  "author": "Edori Atiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdoriAtiri/Image-Search/issues"
+  },
+  "homepage": "https://github.com/EdoriAtiri/Image-Search#readme",
+  "devDependencies": {
+    "netlify-cli": "^6.7.2"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
