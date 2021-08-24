@@ -1,15 +1,17 @@
-#Unsplash ImG Gallery#
+# Unsplash ImG Gallery
 
 An open source project that utilizes the unsplash Api by me on [DevProjects](http://www.codementor.io/projects)
 
-##Tools Used##
+## Tools Used
+
 **HTML**
 **CSS**
 **Javascript**
 **Unsplash API**
 **Netlify Functions**
 
-##Installation##
+## Installation
+
 Clone Repo
 Npm install
 Rename .env.example to .env
