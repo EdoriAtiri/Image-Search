@@ -1,6 +1,7 @@
 # Unsplash ImG Gallery
 
-An open source project that utilizes the unsplash Api by me on [DevProjects](http://www.codementor.io/projects)
+An open source project that utilizes the unsplash Api 
+[DevProjects](http://www.codementor.io/projects)
 
 ## Tools Used
 
