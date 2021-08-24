@@ -18,8 +18,10 @@
             <h1>ImG Search</h1>
         </header>
         <form id="form">
+            <label for="search"></label>
             <input type="text" id="search" placeholder="Search for images or keywords?">
             <button id="submit" type="submit"><i class="fas fa-search"></i></button>
+            <p class="err">Please enter a search term</p>
         </form>
     </div>
 
@@ -27,6 +29,17 @@
         <div id="result_heading">
         </div>
         <div id="results">
+            <!-- Loading Animation -->
+            <div class="lds-roller">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
         </div>
         </a>
     </section>
