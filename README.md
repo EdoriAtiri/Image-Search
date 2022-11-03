@@ -1,9 +1,12 @@
-# Unsplash ImG Gallery
+# ImG Search
 
-An open source project that utilizes the unsplash Api
-[DevProjects](http://www.codementor.io/projects)
+![alt text](./ImG-Search-mobile.png)
 
-## Tools Used
+## Description
+
+An image search application that utilizes the unsplash Api to return images that match user queries.
+
+## Tools
 
 - **HTML**
 - **CSS**
@@ -13,9 +16,12 @@ An open source project that utilizes the unsplash Api
 
 ## Installation
 
-- Clone Repo
-- Npm install
-- Rename .env.example to .env
-- Input client_id you get from [Unsplash](https://unsplash.com/developers)
-- npm run netlify dev to serve in dev environment
-- npm run build to bundle
+- ** Clone Repo **
+- ** Npm install **
+- ** Rename .env.example to .env **
+- ** Input client_id you get from [Unsplash](https://unsplash.com/developers) into your .env file **
+- ** npm run netlify dev ** to serve in dev environment
+
+## Author
+
+- [**Edori Atiri**](https://github.com/EdoriAtiri)

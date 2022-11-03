@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/EdoriAtiri/Image-Search#readme",
   "devDependencies": {
-    "netlify-cli": "^6.7.2"
+    "netlify-cli": "^6.15.0"
   },
   "dependencies": {
     "axios": "^0.21.1"
